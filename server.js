@@ -77,4 +77,4 @@ app.listen(3000, () => {
     console.log('Listening on port 3000')
 })
 
-//http://localhost:3000/shoes?minPrice=50&maxPrice=100&type=air%20jordans
+//http://localhost:3000/shoes?minPrice=50&maxPrice=100&type=sandal
